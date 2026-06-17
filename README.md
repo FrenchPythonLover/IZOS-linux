@@ -137,8 +137,7 @@ cd ./linux
 - [ ] Installer for real hardware
 
 # Contribute
-Feel free to contribute by submitting pull requests !
-
+To contribute, please take a look [here](/CONTRIBUTING.md).
 
 ### Stats
 <img src="https://img.shields.io/github/stars/FrenchPythonLover/IZOS_linux_distro?style=flat">
