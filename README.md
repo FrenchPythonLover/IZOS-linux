@@ -1,4 +1,4 @@
-
+![neofetch footage](docs/izos_neofetch.png)
 <h1 align="center">IZOS: Linux Edition</h1>
 
 <p align="center">
