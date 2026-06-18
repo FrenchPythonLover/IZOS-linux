@@ -17,7 +17,7 @@ Thank you for your interest in contributing to IZOS.
 * Use POSIX shell when possible.
 * Keep scripts readable and documented.
 * Avoid hardcoded paths.  
-*For reference, take a look at the fs/etc/init.d/rcS (init file) script. It's not perfect but a great example.*
+*For reference, take a look at the fs/init (init file) script. It's not perfect but a great example.*
   
 ### C code
 

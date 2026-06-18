@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.1.0-blueviolet">
+  <img src="https://img.shields.io/badge/version-0.1.1-blueviolet">
   <img src="https://img.shields.io/badge/kernel-Linux-blue">
   <img src="https://img.shields.io/badge/arch-x86__64-green">
   <img src="https://img.shields.io/badge/license-GPL-orange">
@@ -24,7 +24,6 @@ IZOS is a Linux distribution built from scratch. It is not based on an existing 
 - Modular extmount system
 - BusyBox userspace
 - Custom sudo implementation
-- Python 3 support
 - Built entirely from source
   
 ## Contents

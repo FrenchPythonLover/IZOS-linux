@@ -9,9 +9,8 @@ int main(int argc, char **argv) {
         return 1;
     }
 
-    setuid(0);   // passer root
-    execvp(argv[1], &argv[1]); // executer commande
-
+    setuid(0);   // get root
+    execvp(argv[1], &argv[1]); // execute w/ required arguments
     perror("execvp");
     return 1;
 }

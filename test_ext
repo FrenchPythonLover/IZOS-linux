@@ -4,6 +4,7 @@ qemu-system-x86_64 \
   -kernel ./linux/bzImage \
   -initrd ./linux/initramfs.cpio.gz \
   -m 1024M \
-  -serial stdio \
+  -serial mon:stdio \
+  -nographic \
   -drive file=fs_ext.img,if=ide,format=raw \
-  -append "console=ttyS0 loglevel=9 init=/init extmount=/dev/sda"
+  -append "console=ttyS0 loglevel=1 init=/init extmount=/dev/sda"

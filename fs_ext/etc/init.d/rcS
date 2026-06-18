@@ -1,0 +1,4 @@
+#!/sbin/busybox sh
+busybox --install
+echo "Welcome to IZOS external filesystem !"
+exec /bin/sh
