@@ -140,9 +140,9 @@ cd ./linux
 To contribute, please take a look [here](/CONTRIBUTING.md).
 
 ### Stats
-<img src="https://img.shields.io/github/stars/FrenchPythonLover/IZOS_linux_distro?style=flat">
-<img src="https://img.shields.io/github/issues/FrenchPythonLover/IZOS_linux_distro">
-<img src="https://img.shields.io/github/last-commit/FrenchPythonLover/IZOS_linux_distro">
+<img src="https://img.shields.io/github/stars/FrenchPythonLover/IZOS-linux?style=flat">
+<img src="https://img.shields.io/github/issues/FrenchPythonLover/IZOS-linux">
+<img src="https://img.shields.io/github/last-commit/FrenchPythonLover/IZOS-linux">
 
 
 <hr>
